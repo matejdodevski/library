@@ -1,0 +1,17 @@
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\model\Book.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\BookCategoryRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\BookRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\LibraryApplication.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\interfaces\IBookRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\controller\LibraryController.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\interfaces\IAuthorRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\model\response\GetAllBooksResponse.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\model\Country.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\model\BookCategory.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\model\Author.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\CountryRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\interfaces\IBookCategoryRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\model\request\GetBookModel.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\AuthorRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\repository\interfaces\ICountryRepository.java
+C:\FINKI\EMT\Labaratoriska2\library\src\main\java\com\Lab2\library\service\LibraryService.java

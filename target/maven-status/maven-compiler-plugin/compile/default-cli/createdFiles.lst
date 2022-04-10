@@ -1,0 +1,17 @@
+com\Lab2\library\model\BookCategory.class
+com\Lab2\library\model\Author.class
+com\Lab2\library\repository\BookRepository.class
+com\Lab2\library\model\response\GetAllBooksResponse.class
+com\Lab2\library\model\request\GetBookModel.class
+com\Lab2\library\repository\AuthorRepository.class
+com\Lab2\library\repository\CountryRepository.class
+com\Lab2\library\repository\interfaces\IBookCategoryRepository.class
+com\Lab2\library\LibraryApplication.class
+com\Lab2\library\service\LibraryService.class
+com\Lab2\library\repository\interfaces\ICountryRepository.class
+com\Lab2\library\controller\LibraryController.class
+com\Lab2\library\repository\interfaces\IBookRepository.class
+com\Lab2\library\model\Country.class
+com\Lab2\library\model\Book.class
+com\Lab2\library\repository\BookCategoryRepository.class
+com\Lab2\library\repository\interfaces\IAuthorRepository.class
